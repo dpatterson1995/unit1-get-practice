@@ -86,7 +86,7 @@ mkdir desserts
 mv desserts sweets
 
 ### Step 3C
-mkdir prote
+mkdir proteins
 
 ### Step 3D
 mv meats proteins
@@ -138,10 +138,13 @@ git add .
 get commit -m 'first commit'
 
 ### Step 5
-
+git remote add origin https://github.com/dpatterson1995/unit1-get-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
-
+git add .
+git commit -m 'starting a menu'
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
